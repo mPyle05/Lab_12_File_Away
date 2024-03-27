@@ -1,9 +1,7 @@
 import javax.swing.*;
 import java.io.*;
-import java.lang.reflect.Array;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.Arrays;
 
 import static java.nio.file.StandardOpenOption.CREATE;
 

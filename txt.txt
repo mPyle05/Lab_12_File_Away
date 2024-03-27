@@ -1,0 +1,1 @@
+Then submit either the GitHub repo link or the entire zip archive of the IntelliJ project.
